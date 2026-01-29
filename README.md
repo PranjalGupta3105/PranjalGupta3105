@@ -1,5 +1,5 @@
 # 💫 About Me:
-Expenses Based Centralized App.<br>Suggestions on the App Itself.<br>Anything related to Data Science and preparing analytics Info.<br>Always a new tech stack - Helps builds things faster.<br>Node.js, Python, PostgreSQL, React.js<br>I'm a Full-stack thinker in both tech and investing
+Expenses Based Centralized App.<br>Suggestions on the App Itself.<br>Anything related to Backend, Data Science and Preparing analytics Info on Financial Data.<br>Always a new tech stack - Helps builds things faster.<br>Node.js, Python, PostgreSQL, React.js, AI<br>I'm a Full-stack thinker and I love to read about both tech and investing and build POC's around them.
 
 
 ## 🌐 Socials:
