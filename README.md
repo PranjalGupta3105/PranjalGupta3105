@@ -13,7 +13,7 @@ Expenses Based Centralized App.<br>Suggestions on the App Itself.<br>Anything re
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PranjalGupta3105&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=PranjalGupta3105&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy-fork-two.vercel.app/?username=PranjalGupta3105&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=PranjalGupta3105&limit=5&theme=dark&combine_all_yearly_contributions=true)
